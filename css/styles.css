@@ -70,7 +70,8 @@ button {
 }
 
 .header-container {
-    d
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo-style {
