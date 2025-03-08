@@ -50,9 +50,12 @@ button {
 /* #region header */
 
 .header {
+    border-bottom: 1px solid #e7e9fc;
    
 }
 .nav-header {
+    display: flex;
+    justify-content: space-between;
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -67,8 +70,7 @@ button {
 }
 
 .header-container {
-    display: flex;
-    justify-content: space-between;
+    d
 }
 
 .logo-style {
