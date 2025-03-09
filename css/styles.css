@@ -250,6 +250,7 @@ button {
     width: calc((100% - 24px * 3) / 4);
 }
 .our-team-item-img {
+    display: block;
     }
 .our-team-item-title {
     font-weight: 500;
@@ -300,6 +301,7 @@ button {
     width: calc((100% - 24px * 2) / 3);
 }    
 .our-portfolio-item-img {
+    display: block;
     
 }
 .our-portfolio-item-title {
