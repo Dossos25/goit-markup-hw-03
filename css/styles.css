@@ -71,7 +71,7 @@ button {
     color: #4d5ae5; 
  }
 
- .header-logo {
+.header-logo {
     padding: 24px 0;
     margin-right: 76px;
  }
@@ -79,6 +79,7 @@ button {
 .header-container {
     display: flex;
     align-items: center;
+    padding: 188px 0;
 }
 
 .logo-style {
