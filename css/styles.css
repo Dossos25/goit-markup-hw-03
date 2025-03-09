@@ -41,7 +41,7 @@ button {
     font-family: "Roboto", sans-serif;
 }
 
-.section {
+.conteiner {
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -141,7 +141,7 @@ button {
     background-color: #2e2f42;
 }
 .hero-content{
-    padding: 188px 316px 48px;
+    padding: 188px 0;
 
 }
 .hero-title {
