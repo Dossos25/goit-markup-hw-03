@@ -43,8 +43,7 @@ button {
 
 .container {
     width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 15px;
     margin: 0 auto;
 }
 .section {
@@ -71,7 +70,7 @@ button {
     color: #4d5ae5; 
  }
 
-.header-logo {
+ .header-logo {
     padding: 24px 0;
     margin-right: 76px;
  }
@@ -79,7 +78,7 @@ button {
 .header-container {
     display: flex;
     align-items: center;
-    padding: 188px 0;
+   
 }
 
 .logo-style {
@@ -118,7 +117,7 @@ button {
 
 .address-header{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     gap: 40px;
     font-style: normal;
 }
