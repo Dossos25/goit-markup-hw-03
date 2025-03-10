@@ -191,7 +191,7 @@ button {
 }
 
 .advantages-content{
-    display: flex;
+   
 
 }
 .advantages-title {
@@ -208,6 +208,7 @@ button {
    
 }
 .advantages-list-item {
+    width: calc((100% - 72px) / 4);
 }
 .advantages-item-title {
     font-weight: 500;
@@ -215,7 +216,7 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-bottom: 4px;
+    margin-bottom: 8px; 
 }
 .advantages-item-text {
     font-weight: 400;
@@ -223,7 +224,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-top: 4px;
+    
 }
 /* #endregion advantages */
 
