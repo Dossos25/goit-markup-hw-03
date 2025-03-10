@@ -102,7 +102,8 @@ button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
-    letter-spacing: 0.02em;    
+    letter-spacing: 0.02em;   
+     
 }
 
 .item-nav-link:hover, 
@@ -116,17 +117,15 @@ button {
 
 .address-header{
     display: flex;
-    align-items: flex-end;
     gap: 40px;
-    font-style: normal;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .address-header-item {}
 
 .item-address-link {
     font-style: normal;
-    padding-top: 24px;
-    padding-bottom: 24px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -208,7 +207,7 @@ button {
    
 }
 .advantages-list-item {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 24px * 3) / 4);
 }
 .advantages-item-title {
     font-weight: 500;
