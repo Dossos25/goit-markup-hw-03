@@ -253,6 +253,9 @@ button {
 .our-team-item-img {
     display: block;
     }
+.name-our-team{
+    padding: 32px 0;
+}
 .our-team-item-title {
     font-weight: 500;
     font-size: 20px;
@@ -261,7 +264,7 @@ button {
     text-align: center;
     color: #2e2f42;
     margin-top: 32px;
-    margin-bottom: 4px;
+    margin-bottom: 8px;
 }
 .our-team-list-item-text {
     font-weight: 400;
@@ -270,7 +273,6 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    margin-top: 4px;
     margin-bottom: 32px;
 }
 /* #endregion our team */
