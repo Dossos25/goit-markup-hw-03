@@ -263,7 +263,6 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 .our-team-list-item-text {
@@ -273,7 +272,7 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    margin-bottom: 32px;
+   
 }
 /* #endregion our team */
 
