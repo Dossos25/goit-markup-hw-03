@@ -248,6 +248,7 @@ button {
 .our-team-list-item {
     background-color: #FFFFFF;
     width: calc((100% - 24px * 3) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 .our-team-item-img {
     display: block;
