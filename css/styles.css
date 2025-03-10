@@ -164,6 +164,9 @@ button {
 }
 .hero-btn {
     display: block;
+    border: none;
+    min-width: 169px;
+    height: 56px;
     margin: 48px auto 0;
     font-weight: 500;
     font-size: 16px;
