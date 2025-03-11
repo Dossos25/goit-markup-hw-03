@@ -56,14 +56,14 @@ button {
  }
  
 .header-logo {
-    
-    padding: 24px 0;    
+     
     margin-right: 76px;
  }
 
 .header-container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo-style {
