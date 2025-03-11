@@ -56,13 +56,14 @@ button {
  }
  
 .header-logo {
-    display: flex; 
-    padding: 24px 0;
-    align-items: center;
+    
+    padding: 24px 0;    
     margin-right: 76px;
  }
 
 .header-container {
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo-style {
@@ -73,13 +74,12 @@ button {
 }
 .nav-header-list {
     display: flex;
-    align-items: center;
     gap: 40px;
 }
 .nav-header-item {
 }
 .item-nav-link {
-    display: block;
+    display: inline-block;
     padding: 24px 0;
     font-weight: 500;
     font-size: 16px;
@@ -92,7 +92,8 @@ button {
 }
 .address {
     font-style: normal;
-    margin-left: auto; 
+  
+
 }
 .address-header{
     display: flex;
@@ -100,9 +101,12 @@ button {
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
+    
 }
 
-.address-header-item {}
+.address-header-item {
+    margin-left: auto; 
+}
 
 .item-address-link {
     font-style: normal;
