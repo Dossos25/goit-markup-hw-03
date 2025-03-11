@@ -92,16 +92,13 @@ button {
 }
 .address {
     font-style: normal;
-  
-
 }
 .address-header{
     display: flex;
     align-items: center;
     gap: 40px;
     padding-top: 24px;
-    padding-bottom: 24px;
-    
+    padding-bottom: 24px;    
 }
 
 .address-header-item {
