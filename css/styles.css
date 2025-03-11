@@ -56,22 +56,22 @@ button {
     color: #4d5ae5; 
  }
 
- .header-logo {
+.header-logo {
     padding: 24px 0;
     margin-right: 76px;
  }
 
 .header-container {
-    display: flex;
-    align-items: center;
+  
    
 }
 
 .logo-style {
+    display: inline-block;
     color: #2e2f42;
     padding-top: 24px;
     padding-bottom: 24px;
-    display: inline-block;
+    
 }
 
 
@@ -99,11 +99,12 @@ button {
 
 .address {
     font-style: normal;
-    margin-left: auto;    
+    margin-left: auto; 
 }
 
 .address-header{
     display: flex;
+    align-items: center;
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
